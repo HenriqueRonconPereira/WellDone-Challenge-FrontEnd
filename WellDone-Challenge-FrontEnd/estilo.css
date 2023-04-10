@@ -2,6 +2,10 @@
     color: #FAFAFA;
 }
 
+.centralizacao_img{
+    text-align: center;
+}
+
 header .container{
     display: flex;
     align-items: center; 
